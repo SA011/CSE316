@@ -15,5 +15,5 @@
   - [Retro Snake](https://github.com/RedwanulKarim612/Retro-Snake)
   - Video Demonstration : [Youtube Link](https://www.youtube.com/watch?v=ReesaAqyTmY)
   - *Collaborators*
-    - Redwanul Karim (1805111)
-    - Yasir Khandaker (1805105)
+    - Md. Redwanul Karim(1805111)
+    - Yeasir Khandaker(1805105)
