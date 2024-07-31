@@ -1,12 +1,12 @@
 
 ## **`CSE 316` : Microprocessors,Microcontrollers and Embedded Systems Sessional**
-- **`Assembly 8086`**
+- **`Assembly 8086 Courseworks`**
   - Offline 1
   - Online 1 
   - Online 2
   - Online 3
 
-- **`Atmega32 Microcontroller`**
+- **`Microprocessor & Microcontroller Courseworks `**
   - AVR Microcontroller: Use of Polling for Digital IO
   - Basic Bicolor LED matrix control with ATmega32: static, flash, and rotating display
   - Basic use of ADC and LCD module with ATmega32
